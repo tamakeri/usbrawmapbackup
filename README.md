@@ -1,8 +1,7 @@
 # usbrawmap
 
 
-
-#i dont know anything this is just a backup go visit orgianal https://github.com/zdimension/usbrawmap
+# i dont know anything this is just a backup go visit original https://github.com/zdimension/usbrawmap
 
 Easy way to assign actions to keyboard scancodes ignored by the USB keyboard driver on Windows.
 
